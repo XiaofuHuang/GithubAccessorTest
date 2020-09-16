@@ -1,2 +1,4 @@
-- name: Index
-  href: index.md
+- name: Azure Category
+  href: azure.category.md
+- name: Certification
+  href: certification.md
