@@ -1,22 +1,22 @@
 - name: Taxonomy
   items:
-    - name: Azure Category
-      href: azure.category.md
-    - name: Certification
-      href: certification.md
-    - name: DevLang
-      href: devlang.md
-    - name: Level
-      href: level.md
-    - name: Role
-      href: role.md
-    - name: ms.author
-      href: ms.author.md
-    - name: ms.devlang
-      href: ms.devlang.md
-    - name: ms.prod
-      href: ms.prod.md
-    - name: ms.service
-      href: ms.service.md
-    - name: ms.topic
-      href: ms.topic.md
+  - name: Azure Category
+    href: azure.category.md
+  - name: Certification
+    href: certification.md
+  - name: DevLang
+    href: devlang.md
+  - name: Level
+    href: level.md
+  - name: Role
+    href: role.md
+  - name: ms.author
+    href: ms.author.md
+  - name: ms.devlang
+    href: ms.devlang.md
+  - name: ms.prod
+    href: ms.prod.md
+  - name: ms.service
+    href: ms.service.md
+  - name: ms.topic
+    href: ms.topic.md
