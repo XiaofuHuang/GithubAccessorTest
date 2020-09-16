@@ -1,5 +1,4 @@
 - name: Taxonomy
-  href: index.md
   items:
     - name: Azure Category
       href: azure.category.md
