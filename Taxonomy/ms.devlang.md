@@ -1,30 +1,30 @@
 # Taxonomy ms.devlang
 
-|slug           |label          |active  |updatedAt              |createdAt              |updatedBy                                                   |
-|---------------|---------------|--------|-----------------------|-----------------------|------------------------------------------------------------|
-|  rest-api     |  Rest Api     |  True  |  2020/08/28 22:54:29  |  2020/08/28 22:54:29  |  https://microsoft-devrel.poolparty.biz/user/dana.bublitz  |
-|  cpp          |  Cpp          |  True  |  2020/08/28 22:54:29  |  2020/08/28 22:54:29  |  https://microsoft-devrel.poolparty.biz/user/dana.bublitz  |
-|  ruby         |  Ruby         |  True  |  2020/08/28 22:54:29  |  2020/08/28 22:54:29  |  https://microsoft-devrel.poolparty.biz/user/dana.bublitz  |
-|  go           |  Go           |  True  |  2020/08/28 22:54:29  |  2020/08/28 22:54:29  |  https://microsoft-devrel.poolparty.biz/user/dana.bublitz  |
-|  nodejs       |  Nodejs       |  True  |  2020/08/28 22:54:29  |  2020/08/28 22:54:29  |  https://microsoft-devrel.poolparty.biz/user/dana.bublitz  |
-|  c            |  C            |  True  |  2020/08/28 22:54:29  |  2020/08/28 22:54:29  |  https://microsoft-devrel.poolparty.biz/user/dana.bublitz  |
-|  vstscli      |  Vstscli      |  True  |  2020/08/28 22:54:29  |  2020/08/28 22:54:29  |  https://microsoft-devrel.poolparty.biz/user/dana.bublitz  |
-|  fsharp       |  Fsharp       |  True  |  2020/08/28 22:54:29  |  2020/08/28 22:54:29  |  https://microsoft-devrel.poolparty.biz/user/dana.bublitz  |
-|  php          |  Php          |  True  |  2020/08/28 22:54:29  |  2020/08/28 22:54:29  |  https://microsoft-devrel.poolparty.biz/user/dana.bublitz  |
-|  java         |  Java         |  True  |  2020/08/28 22:54:29  |  2020/08/28 22:54:29  |  https://microsoft-devrel.poolparty.biz/user/dana.bublitz  |
-|  vb           |  Vb           |  True  |  2020/08/28 22:54:29  |  2020/08/28 22:54:29  |  https://microsoft-devrel.poolparty.biz/user/dana.bublitz  |
-|  powershell   |  Powershell   |  True  |  2020/08/28 22:54:29  |  2020/08/28 22:54:29  |  https://microsoft-devrel.poolparty.biz/user/dana.bublitz  |
-|  typescript   |  Typescript   |  True  |  2020/08/28 22:54:29  |  2020/08/28 22:54:29  |  https://microsoft-devrel.poolparty.biz/user/dana.bublitz  |
-|  spark-scala  |  Spark Scala  |  True  |  2020/08/28 22:54:29  |  2020/08/28 22:54:29  |  https://microsoft-devrel.poolparty.biz/user/dana.bublitz  |
-|  python       |  Python       |  True  |  2020/08/28 22:54:29  |  2020/08/28 22:54:29  |  https://microsoft-devrel.poolparty.biz/user/dana.bublitz  |
-|  javascript   |  Javascript   |  True  |  2020/08/28 22:54:29  |  2020/08/28 22:54:29  |  https://microsoft-devrel.poolparty.biz/user/dana.bublitz  |
-|  azurecli     |  Azurecli     |  True  |  2020/08/28 22:54:29  |  2020/08/28 22:54:29  |  https://microsoft-devrel.poolparty.biz/user/dana.bublitz  |
-|  csharp       |  Csharp       |  True  |  2020/08/28 22:54:29  |  2020/08/28 22:54:29  |  https://microsoft-devrel.poolparty.biz/user/dana.bublitz  |
-|  cli          |  CLI          |  True  |  2020/08/28 22:54:29  |  2020/08/28 22:54:29  |  https://microsoft-devrel.poolparty.biz/user/dana.bublitz  |
-|  objective-c  |  Objective C  |  True  |  2020/08/28 22:54:29  |  2020/08/28 22:54:29  |  https://microsoft-devrel.poolparty.biz/user/dana.bublitz  |
-|  swift        |  Swift        |  True  |  2020/08/28 22:54:29  |  2020/08/28 22:54:29  |  https://microsoft-devrel.poolparty.biz/user/dana.bublitz  |
-|  json         |  Json         |  True  |  2020/08/28 22:54:29  |  2020/08/28 22:54:29  |  https://microsoft-devrel.poolparty.biz/user/dana.bublitz  |
-|  r            |  R            |  True  |  2020/08/28 22:54:29  |  2020/08/28 22:54:29  |  https://microsoft-devrel.poolparty.biz/user/dana.bublitz  |
-|  dotnet       |  Dotnet       |  True  |  2020/08/28 22:54:29  |  2020/08/28 22:54:29  |  https://microsoft-devrel.poolparty.biz/user/dana.bublitz  |
-|  brainscript  |  Brainscript  |  True  |  2020/08/28 22:54:29  |  2020/08/28 22:54:29  |  https://microsoft-devrel.poolparty.biz/user/dana.bublitz  |
-|  qsharp       |  Qsharp       |  True  |  2020/08/28 22:54:29  |  2020/08/28 22:54:29  |  https://microsoft-devrel.poolparty.biz/user/dana.bublitz  |
+|uid                                                                                       |active|updatedAt          |createdAt          |updatedBy                                               |slug       |label      |
+|------------------------------------------------------------------------------------------|------|-------------------|-------------------|--------------------------------------------------------|-----------|-----------|
+|https://authoring-docs-microsoft.poolparty.biz/devrel/76abb0d8-38d4-4436-9f70-cec9e13a0940|True  |2020/08/28 22:54:29|2020/08/28 22:54:29|https://microsoft-devrel.poolparty.biz/user/dana.bublitz|rest-api   |Rest Api   |
+|https://authoring-docs-microsoft.poolparty.biz/devrel/073d97ec-a1d4-410d-8831-284e3e2e3b47|True  |2020/08/28 22:54:29|2020/08/28 22:54:29|https://microsoft-devrel.poolparty.biz/user/dana.bublitz|cpp        |Cpp        |
+|https://authoring-docs-microsoft.poolparty.biz/devrel/5f83493f-a5db-4cfb-a81d-dfa02338f381|True  |2020/08/28 22:54:29|2020/08/28 22:54:29|https://microsoft-devrel.poolparty.biz/user/dana.bublitz|ruby       |Ruby       |
+|https://authoring-docs-microsoft.poolparty.biz/devrel/83a051b6-c24e-483b-886d-9bb3ee900157|True  |2020/08/28 22:54:29|2020/08/28 22:54:29|https://microsoft-devrel.poolparty.biz/user/dana.bublitz|go         |Go         |
+|https://authoring-docs-microsoft.poolparty.biz/devrel/d9231d53-1246-4a03-a619-cf8e111bf865|True  |2020/08/28 22:54:29|2020/08/28 22:54:29|https://microsoft-devrel.poolparty.biz/user/dana.bublitz|nodejs     |Nodejs     |
+|https://authoring-docs-microsoft.poolparty.biz/devrel/55078812-2482-48fc-88b1-21611789f347|True  |2020/08/28 22:54:29|2020/08/28 22:54:29|https://microsoft-devrel.poolparty.biz/user/dana.bublitz|c          |C          |
+|https://authoring-docs-microsoft.poolparty.biz/devrel/6010eda2-5b68-4390-9df2-c32d6c6d480b|True  |2020/08/28 22:54:29|2020/08/28 22:54:29|https://microsoft-devrel.poolparty.biz/user/dana.bublitz|vstscli    |Vstscli    |
+|https://authoring-docs-microsoft.poolparty.biz/devrel/0e1aabd5-ac8a-4f47-8493-55b7dd4415c6|True  |2020/08/28 22:54:29|2020/08/28 22:54:29|https://microsoft-devrel.poolparty.biz/user/dana.bublitz|fsharp     |Fsharp     |
+|https://authoring-docs-microsoft.poolparty.biz/devrel/e1dd3c7d-ce95-419b-9810-8245e018bce5|True  |2020/08/28 22:54:29|2020/08/28 22:54:29|https://microsoft-devrel.poolparty.biz/user/dana.bublitz|php        |Php        |
+|https://authoring-docs-microsoft.poolparty.biz/devrel/c6fa4cba-0bf3-4f46-9b57-0f015eb85025|True  |2020/08/28 22:54:29|2020/08/28 22:54:29|https://microsoft-devrel.poolparty.biz/user/dana.bublitz|java       |Java       |
+|https://authoring-docs-microsoft.poolparty.biz/devrel/49d6e3ac-f0d9-4946-84f8-6f3fa64424c8|True  |2020/08/28 22:54:29|2020/08/28 22:54:29|https://microsoft-devrel.poolparty.biz/user/dana.bublitz|vb         |Vb         |
+|https://authoring-docs-microsoft.poolparty.biz/devrel/88c769b3-bec8-4058-8f38-7dbe95b9ab87|True  |2020/08/28 22:54:29|2020/08/28 22:54:29|https://microsoft-devrel.poolparty.biz/user/dana.bublitz|powershell |Powershell |
+|https://authoring-docs-microsoft.poolparty.biz/devrel/6bd86e4a-00d9-4202-9696-0d3d401a3240|True  |2020/08/28 22:54:29|2020/08/28 22:54:29|https://microsoft-devrel.poolparty.biz/user/dana.bublitz|typescript |Typescript |
+|https://authoring-docs-microsoft.poolparty.biz/devrel/0a9db4b4-5a57-4be2-a99d-822f756468f7|True  |2020/08/28 22:54:29|2020/08/28 22:54:29|https://microsoft-devrel.poolparty.biz/user/dana.bublitz|spark-scala|Spark Scala|
+|https://authoring-docs-microsoft.poolparty.biz/devrel/2e7c95e4-6256-4984-84ec-6dc3ced3953a|True  |2020/08/28 22:54:29|2020/08/28 22:54:29|https://microsoft-devrel.poolparty.biz/user/dana.bublitz|python     |Python     |
+|https://authoring-docs-microsoft.poolparty.biz/devrel/64c1e36d-c34b-4dc3-86d1-1e90c8231f79|True  |2020/08/28 22:54:29|2020/08/28 22:54:29|https://microsoft-devrel.poolparty.biz/user/dana.bublitz|javascript |Javascript |
+|https://authoring-docs-microsoft.poolparty.biz/devrel/d9966563-7c1b-485b-99bd-10ed44c18649|True  |2020/08/28 22:54:29|2020/08/28 22:54:29|https://microsoft-devrel.poolparty.biz/user/dana.bublitz|azurecli   |Azurecli   |
+|https://authoring-docs-microsoft.poolparty.biz/devrel/0077739c-d6ce-4522-9ba5-ca8f235a6024|True  |2020/08/28 22:54:29|2020/08/28 22:54:29|https://microsoft-devrel.poolparty.biz/user/dana.bublitz|csharp     |Csharp     |
+|https://authoring-docs-microsoft.poolparty.biz/devrel/d5e8af19-293b-4123-bcdb-52cf415425ab|True  |2020/08/28 22:54:29|2020/08/28 22:54:29|https://microsoft-devrel.poolparty.biz/user/dana.bublitz|cli        |CLI        |
+|https://authoring-docs-microsoft.poolparty.biz/devrel/efdbca2e-2b52-4ca6-a046-920d4c03f920|True  |2020/08/28 22:54:29|2020/08/28 22:54:29|https://microsoft-devrel.poolparty.biz/user/dana.bublitz|objective-c|Objective C|
+|https://authoring-docs-microsoft.poolparty.biz/devrel/28f84c62-759f-4d99-81ea-37e700d9c2ed|True  |2020/08/28 22:54:29|2020/08/28 22:54:29|https://microsoft-devrel.poolparty.biz/user/dana.bublitz|swift      |Swift      |
+|https://authoring-docs-microsoft.poolparty.biz/devrel/599dbdf1-3f8e-48ce-b27a-01fc96ac8b82|True  |2020/08/28 22:54:29|2020/08/28 22:54:29|https://microsoft-devrel.poolparty.biz/user/dana.bublitz|json       |Json       |
+|https://authoring-docs-microsoft.poolparty.biz/devrel/19143e3f-faa7-4249-9531-1851ce263b41|True  |2020/08/28 22:54:29|2020/08/28 22:54:29|https://microsoft-devrel.poolparty.biz/user/dana.bublitz|r          |R          |
+|https://authoring-docs-microsoft.poolparty.biz/devrel/28ea2072-9b08-4fc6-a1f6-7aa1b26da949|True  |2020/08/28 22:54:29|2020/08/28 22:54:29|https://microsoft-devrel.poolparty.biz/user/dana.bublitz|dotnet     |Dotnet     |
+|https://authoring-docs-microsoft.poolparty.biz/devrel/98121544-845e-4d83-80c3-eab235516489|True  |2020/08/28 22:54:29|2020/08/28 22:54:29|https://microsoft-devrel.poolparty.biz/user/dana.bublitz|brainscript|Brainscript|
+|https://authoring-docs-microsoft.poolparty.biz/devrel/dab69f83-2812-4b01-9b7a-0327327db526|True  |2020/08/28 22:54:29|2020/08/28 22:54:29|https://microsoft-devrel.poolparty.biz/user/dana.bublitz|qsharp     |Qsharp     |
