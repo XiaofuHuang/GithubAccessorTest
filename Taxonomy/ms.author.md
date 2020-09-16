@@ -1,6 +1,6 @@
 # Taxonomy ms.author
 
-|label                          |slug                           |active   |updatedAt              |createdAt              |updatedBy                                                   |
+|slug                           |label                          |active   |updatedAt              |createdAt              |updatedBy                                                   |
 |-------------------------------|-------------------------------|---------|-----------------------|-----------------------|------------------------------------------------------------|
 |  Office365ServiceDescription  |  Office365ServiceDescription  |  False  |  2020/08/28 22:54:29  |  2020/08/28 22:54:29  |  https://microsoft-devrel.poolparty.biz/user/dana.bublitz  |
 |  archiveddocs                 |  archiveddocs                 |  True   |  2020/08/28 22:54:29  |  2020/08/28 22:54:29  |  https://microsoft-devrel.poolparty.biz/user/dana.bublitz  |
