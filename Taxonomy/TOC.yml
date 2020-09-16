@@ -1,4 +1,5 @@
 - name: Taxonomy
+  href: index.md
   items:
     - name: Azure Category
       href: azure.category.md
@@ -8,6 +9,8 @@
       href: devlang.md
     - name: Level
       href: level.md
+    - name: Role
+      href: role.md
     - name: ms.author
       href: ms.author.md
     - name: ms.devlang
@@ -18,5 +21,3 @@
       href: ms.service.md
     - name: ms.topic
       href: ms.topic.md
-    - name: Role
-      href: role.md
